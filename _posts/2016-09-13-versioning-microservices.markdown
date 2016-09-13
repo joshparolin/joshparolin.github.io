@@ -2,6 +2,7 @@
 published: false
 title: Versioning Microservices
 layout: post
+categories: [microservices]
 ---
 - https://news.ycombinator.com/item?id=9705098
 
